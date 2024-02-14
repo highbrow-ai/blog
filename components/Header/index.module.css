@@ -1,11 +1,11 @@
 .header {
-  padding: 16px 96px 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
   height: 96px;
   width: auto;
-  position: absolute;
-  left: 16px;
-  top: 0;
 }
